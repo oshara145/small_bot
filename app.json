@@ -1,0 +1,30 @@
+{
+    "name": "Simple Bot",
+    "description": "Massegble Telegram Bot Made With Python.",
+    "logo": "blank",
+    "keywords": [
+        "python"
+    ],
+    "repository": "https://github.com/oshara145/small_bot",
+    "website": "https://t.me/SLEHISVF",
+    "success_url": "https://t.me/Dp_Bo",
+    "stack": "container",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Enter Your Bot Token.",
+            "value": "", 
+            "required": true
+        },
+        "YOUR_NAME": {
+            "description": "Type Your Name.",
+            "value": "",
+            "required": true
+        }
+    },
+    "formation": {
+        "ultroid": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
