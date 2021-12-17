@@ -1,4 +1,4 @@
-FROM oshara145/small_bot:main
+FROM oshara145/small_bot
 
 # set timezone
 ENV TZ=Asia/Kolkata
