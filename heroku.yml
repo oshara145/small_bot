@@ -1,0 +1,3 @@
+build:
+  docker:
+      small_bot: Prockfile.txt
